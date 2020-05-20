@@ -2,9 +2,7 @@
 
 Presented software allows reconstructing surface based on 2 images tilted by the specified angle. The general scientific purpose was to reconstruct the surface of particles as it's an important factor affecting many production processes of drugs as well as influence effectiveness of therapy by affecting dose of drug delivered to lungs. The software uses external packages listed below and grabs them to comply with a scientific point of view with an assessment of surface construction in metric units. To get more information about general surface importance please find interesting articles. I also encourage you to read a paper about surface reconstruction to understand the idea behind the software.
 
-Software uses external packages and it's not written from scratch that's why if you would like to use it you need to install following packages and agree with licenses assigned for them:
-
-Software uses external packages and it's not written from scrach thats why if you would like to use it you need to install following packages and agree with licences assigned for them:
+Software uses external packages and it's not written from scrach.
 
 
 To understand general working principle of the software please check the following article:
